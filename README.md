@@ -5,7 +5,8 @@ Projeto de página em HTML e CSS3, disponibilizando informações pessoais, como
 
 ✔️ Tecnologias utilizadas
 
-HTML5
-CSS3
-Visual Studio
+* HTML5;
+* CSS3;
+* Visual Studio;
+
 
